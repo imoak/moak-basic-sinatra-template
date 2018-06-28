@@ -1,0 +1,1 @@
+# moak-basic-sinatra-template
